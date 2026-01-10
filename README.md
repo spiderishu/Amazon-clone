@@ -22,7 +22,6 @@ This project helped me gain hands-on experience with real-world website structur
 ## 🚀 Features
 
 - Amazon-inspired UI design  
-- Responsive layout (works on different screen sizes)
 - Clean and structured HTML
 - Modern CSS styling
 - Basic JavaScript for simple interactions
